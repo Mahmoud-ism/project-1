@@ -307,7 +307,7 @@ input:focus{
 .fifth{
     margin:-100px 10%;
 }
-.sixth{
+.siixth{
     margin-top:-200px;
     margin-left:72%
 }
@@ -430,7 +430,7 @@ img{
     top:25px;
     left:10px;
 }
-.forth, .fifth{
+.forth, .fifth, .sixth{
     margin-top:-150px;
 }
 /* //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
